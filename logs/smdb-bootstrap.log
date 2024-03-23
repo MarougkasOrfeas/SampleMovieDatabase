@@ -1,0 +1,9 @@
+2024-03-23 13:44:41.002  INFO DESKTOP-UCHSU5S - [  restartedMain] [g.m.s.b.SampleContent              ] : Generating sample content...
+2024-03-23 13:44:41.166  INFO DESKTOP-UCHSU5S - [  restartedMain] [g.m.s.b.SampleContent              ] : Generated 50 actors
+2024-03-23 13:44:41.179  INFO DESKTOP-UCHSU5S - [  restartedMain] [g.m.s.b.SampleContent              ] : Generated 4 directors
+2024-03-23 13:44:41.185  INFO DESKTOP-UCHSU5S - [  restartedMain] [g.m.s.b.SampleContent              ] : Generated 2 producers
+2024-03-23 13:44:41.202  INFO DESKTOP-UCHSU5S - [  restartedMain] [g.m.s.b.SampleContent              ] : Generated 10 crew members
+2024-03-23 13:44:41.346  INFO DESKTOP-UCHSU5S - [  restartedMain] [g.m.s.b.SampleContent              ] : Generated 5 movies
+2024-03-23 13:44:41.446  INFO DESKTOP-UCHSU5S - [  restartedMain] [g.m.s.b.SampleContent              ] : Generated 5 TV shows
+2024-03-23 13:44:41.544  INFO DESKTOP-UCHSU5S - [  restartedMain] [g.m.s.b.SampleContent              ] : Generated 40 best actor nominations
+2024-03-23 13:44:41.544  INFO DESKTOP-UCHSU5S - [  restartedMain] [g.m.s.b.SampleContent              ] : Sample content generation completed.
